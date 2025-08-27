@@ -1,0 +1,11 @@
+brand,model_name,condition,storage,color,base_price,stock_quantity,discontinued,tags
+Apple,iPhone 14 Pro,Excellent,256GB,Deep Purple,75000,5,false,"flagship,premium,camera"
+Samsung,Galaxy S23 Ultra,Good,512GB,Phantom Black,65000,3,false,"android,stylus,camera"
+OnePlus,11 Pro,Excellent,128GB,Titan Black,45000,8,false,"fast-charging,performance"
+Xiaomi,13 Pro,Fair,256GB,Ceramic White,35000,12,false,"budget,miui,camera"
+Google,Pixel 7a,Excellent,128GB,Charcoal,28000,6,false,"stock-android,camera,ai"
+Realme,GT Neo 5,Good,256GB,Racing Yellow,25000,10,false,"gaming,fast-charging"
+Vivo,V27 Pro,Excellent,128GB,Magic Blue,32000,4,false,"selfie,design,camera"
+Oppo,Reno 10 Pro,Good,256GB,Silvery Grey,38000,7,false,"portrait,design"
+Nothing,Phone 2,Excellent,256GB,White,42000,2,false,"unique-design,stock-android"
+Motorola,Edge 40,Fair,128GB,Lunar Blue,22000,15,false,"clean-android,budget"
